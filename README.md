@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/rapesco-500-sellotape-dispenser-core/about/>
 # Rapesco 500 Heavy Duty Tape Dispenser Core Replacement (3D model)
 
 I broke the central core in my 25mm core wheel.
